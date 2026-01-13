@@ -85,7 +85,7 @@ export default function TroubleshootingPage() {
             join our discord server for community support or to report bugs
           </p>
           <a
-            href="https://discord.gg/your-invite"
+            href="https://discord.gg/669VGYYgmP"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-4 py-2 bg-[#5865F2] rounded hover:bg-[#4752c4]"
